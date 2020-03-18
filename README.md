@@ -1,2 +1,2 @@
 # SeedingTool
-An abp application module to help rebuild host/tenants seed data with background job in launched applications.
+An abp application module to help host/tenants re seed the initial data with background job in launched applications.
